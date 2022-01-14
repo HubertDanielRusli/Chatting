@@ -1,1 +1,1 @@
-jadi ini kita mau tulis target kita gk untuk user terhubung dengan server ??
+jadi ini kita mau tulis tahap-tahap dari target yang kita mau buat untuk bisa memperlihatkan tampilan dari user terhubung dengan server ??
