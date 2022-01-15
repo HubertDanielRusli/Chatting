@@ -1,1 +1,2 @@
 jadi ini kita mau tulis tahap-tahap dari target yang kita mau buat untuk bisa memperlihatkan tampilan dari user terhubung dengan server ??
+Point-point yang kita perluh untuk membuat user interface with server:
